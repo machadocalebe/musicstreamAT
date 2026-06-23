@@ -31,4 +31,4 @@ Demonstrar a aplicação prática de padrões arquiteturais avançados para lida
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/musicstream.git](https://github.com/SEU_USUARIO/musicstream.git)
+   git clone (https://github.com/SEU_USUARIO/musicstream.git)
